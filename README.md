@@ -42,9 +42,7 @@ L'étude met en évidence :
 
 ## 🚀 Utiliser et Exécuter le Notebook
 
-Vous pouvez exécuter directement le code interactif sur Google Colab sans rien installer en cliquant sur le badge ci-dessous :
-
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/](https://colab.research.google.com/drive/1FSXOmjY8w67TPoh-4pcF9aZKQT2ApPZ5?usp=sharing)
+Vous pouvez exécuter directement le code interactif sur Google Colab sans rien installer en cliquant sur le badge ci-dessous : (https://colab.research.google.com/drive/1FSXOmjY8w67TPoh-4pcF9aZKQT2ApPZ5?usp=sharing)
 
 ---
 
